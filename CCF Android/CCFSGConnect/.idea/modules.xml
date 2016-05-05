@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CCFSGConnect.iml" filepath="$PROJECT_DIR$/CCFSGConnect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataDroid/DataDroid.iml" filepath="$PROJECT_DIR$/DataDroid/DataDroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cCFSGConnect/cCFSGConnect.iml" filepath="$PROJECT_DIR$/cCFSGConnect/cCFSGConnect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volley/volley.iml" filepath="$PROJECT_DIR$/volley/volley.iml" />
+    </modules>
+  </component>
+</project>

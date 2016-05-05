@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_grey_sliding_menu">#4c4c4b</color>
+    <dimen name="abc_action_bar_default_height">56dip</dimen>
+    <dimen name="abc_action_bar_icon_vertical_padding">4dip</dimen>
+    <dimen name="abc_action_bar_subtitle_bottom_margin">9dip</dimen>
+    <dimen name="abc_action_bar_subtitle_text_size">14dp</dimen>
+    <dimen name="abc_action_bar_subtitle_top_margin">-3dp</dimen>
+    <dimen name="abc_action_bar_title_text_size">18dp</dimen>
+    <dimen name="abc_config_prefDialogWidth">580dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dgroup_height">200dp</dimen>
+    <dimen name="forum_height">300dp</dimen>
+    <dimen name="home_height">300dp</dimen>
+    <dimen name="video_height">300dp</dimen>
+    <dimen name="webview_text_size">12sp</dimen>
+    <integer name="abc_max_action_buttons">5</integer>
+</resources>

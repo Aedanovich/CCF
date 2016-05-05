@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colors from designer -->
+    <color name="dark_grey_sliding_menu">#4c4c4b</color>
+</resources>

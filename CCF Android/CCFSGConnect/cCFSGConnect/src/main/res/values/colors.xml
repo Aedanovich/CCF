@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colors from designer
+    <color name="home_blue">#18849a</color>-->
+    <color name="home_blue">#00A7BA</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="tablet_gray">#333333</color>
+    <color name="ccf_blue">#00A7BA</color>
+    <color name="dark_grey_sliding_menu">#3c3c3b</color>
+    <color name="grey_bg_sliding_menu">#ebedec</color>
+</resources>

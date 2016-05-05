@@ -1,0 +1,5 @@
+CHANGED,/Users/Yang/AndroidStudioProjects/CCFSGConnect/cCFSGConnect/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/ccfsg/connect/fragment/MinistryListFragment$2$override.class
+CHANGED,/Users/Yang/AndroidStudioProjects/CCFSGConnect/cCFSGConnect/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/ccfsg/connect/fragment/MinistryListFragment$3$override.class
+CHANGED,/Users/Yang/AndroidStudioProjects/CCFSGConnect/cCFSGConnect/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/Yang/AndroidStudioProjects/CCFSGConnect/cCFSGConnect/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/ccfsg/connect/fragment/MinistryListFragment$1$override.class
+CHANGED,/Users/Yang/AndroidStudioProjects/CCFSGConnect/cCFSGConnect/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/ccfsg/connect/fragment/MinistryListFragment$override.class

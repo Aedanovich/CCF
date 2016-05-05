@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+	<com.android.volley.toolbox.NetworkImageView
+	    android:id="@+id/imageview_image"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:adjustViewBounds="true"
+	    android:scaleType="fitXY"/>
+    
+    <RelativeLayout
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dp"
+        android:paddingBottom="5dp"
+        android:background="@drawable/gradient_transparent_to_black" >
+        
+        <com.ccfsg.connect.views.RobotoTextView
+            android:id="@+id/textview_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_below="@+id/textview_date"
+            android:ellipsize="marquee"
+            android:gravity="left"
+            android:maxLines="2"
+            android:text="God Quiz 3"
+            android:textColor="@color/grey_bg_sliding_menu"
+            app:typeface="roboto_regular"
+            android:textSize="20sp" />
+        
+        <com.ccfsg.connect.views.RobotoTextView
+            android:id="@+id/textview_subtitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_below="@+id/textview_title"
+            android:ellipsize="marquee"
+            android:gravity="left"
+            android:text="God Quiz 3"
+            android:textColor="@color/grey_bg_sliding_menu"
+            app:typeface="roboto_light"
+            android:textSize="17sp" />
+    </RelativeLayout>
+</RelativeLayout>
