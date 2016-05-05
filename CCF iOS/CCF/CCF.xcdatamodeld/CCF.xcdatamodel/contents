@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6252" systemVersion="14A389" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Notes" syncable="YES">
+        <attribute name="createddate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="plandate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="refbook" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="refchapter" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="refverse" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="text" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="versetext" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Notes" positionX="-63" positionY="-18" width="128" height="150"/>
+    </elements>
+</model>

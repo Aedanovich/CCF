@@ -1,0 +1,72 @@
+{
+    "details": "",
+    "banners": [
+        {
+            "banner": "http://www.ccfsingapore.org/wp-content/uploads/banner_ccf.png",
+            "bannerurl": "",
+		    "verse": "Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit...'\nMatthew 28:19 (NASB)"
+        },
+		{
+            "banner": "http://www.ccfsingapore.org/wp-content/uploads/banner_pursuing_2014.png",
+            "bannerurl": "",
+		    "verse": ""
+        },
+		{
+            "banner": "http://www.ccfsingapore.org/wp-content/uploads/banner_join_dg.png",
+            "bannerurl": "http://www.ccfsingapore.org/small-groups",
+		    "verse": ""
+        }
+    ],
+	"sections": [
+		{
+			"type": "text",
+			"header": "Our Mission",
+			"content": "To make committed followers of Jesus Christ with Christ-like character; abounding in love for God and others who are actively involved in making spiritual generations of disciples." 
+		},
+		{
+			"type": "text",
+			"header": "Our Vision",
+			"content": "We envision ourselves to be a church where every believer is edified, equipped and empowered to be a minister for Christ – thus our goal of helping Every Believer Be a Minister of God (EBAM)." 
+		},
+		{
+			"type": "button",
+			"header": "Contact Us",
+			"content": [
+				{
+					"type": "phone",
+					"image": "http://www.ccfsingapore.org/wp-content/uploads/icon_phone.png",
+					"value": "+6583170825"
+				},
+				{
+					"type": "email",
+					"image": "http://www.ccfsingapore.org/wp-content/uploads/icon_email.png",
+					"value": "info@ccfsingapore.org"
+				}
+			]
+		},
+		{
+			"type": "map",
+			"header": "Visit Us",
+			"content": [
+				{
+					"banner": "http://www.ccfsingapore.org/wp-content/uploads/banner_grand_cathay.png",
+					"title": "Sunday Service",
+					"address": "The Cathay Cineplexes, Level 6 The Grand Hall, 2 Handy Road 229233",
+					"latitude": 1.299463,
+					"longitude": 103.847714,
+					"starttime": "10:00 am",
+					"endtime": "12:00 nn"
+				},
+				{
+					"banner": "http://www.ccfsingapore.org/wp-content/uploads/banner_grand_cathay.png",
+					"title": "Sunday Service",
+					"address": "The Cathay Cineplexes, Level 6 The Grand Hall, 2 Handy Road 229233",
+					"latitude": 1.299463,
+					"longitude": 103.847714,
+					"starttime": "10:00 am",
+					"endtime": "12:00 nn"
+				}
+			]
+		}
+	]
+}

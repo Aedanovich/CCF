@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "name": "360-degree Employee Evaluation Template",
+            "surveyor": "Company ABC",
+            "date": "1 December 2014",
+            "details": "Send this 360-degree employee evaluation survey to everyone in your organization and get feedback on employee behaviors so that you can offer suggestions and guidance. Make your organization a great place to work by helping everyone do the best at their jobs. The survey asks co-workers to rate others on their timeliness, job effectiveness, and how professional they are on the job. Learn how people rate others, and see how others rate them. You can even customize this form to ask questions specific to your workplace.",
+            "questions": "7"
+        },
+        {
+            "name": "Apps Survey",
+            "surveyor": "Enovax",
+            "date": "4 December 2014",
+            "details": "If you develop apps or advertise on them, it’s important to get to know how people use apps. Our apps template was created by experts to get you the answers you need to inform your app creation or advertising efforts. Ask people questions from the types of apps they use most, to how frequently they use smartphone or tablet apps.",
+            "questions": "7"
+        }
+    ]
+}

@@ -1,0 +1,502 @@
+{
+    "banner": "http://www.ccfsingapore.org/wp-content/uploads/banner_dg.png",
+    "text": "'For where two or three have gathered together in My name, I am there in their midst.'\nMatthew 18:20 (NASB)",
+    "data": [
+    {
+        "group": "Mixed Group (Couples and Singles)",
+        "gender": "Mixed",
+        "locations": [
+            {
+                "location": "Bedok",
+                "imageurl": "",
+                "contact": "Julius/Peachy",
+                "time": "8:00 pm",
+                "day": "Monday",
+                "latitude": 1.324038,
+                "longitude": 103.930036,
+                "addressname": "Bedok MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Tampines",
+                "imageurl": "",
+                "contact": "Joy/Faye",
+                "time": "8:00 pm",
+                "day": "Friday",
+                "latitude": 1.353092,
+                "longitude": 103.945229,
+                "addressname": "Tampines MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Orchard",
+                "imageurl": "",
+                "contact": "Pastor Richard/Marilyn",
+                "time": "8:00 pm",
+                "day": "Friday",
+                "latitude": 1.304292,
+                "longitude": 103.832494,
+                "addressname": "Orchard MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Buangkok",
+                "imageurl": "",
+                "contact": "Awe/Nette",
+                "time": "8:00 pm",
+                "day": "Monday",
+                "latitude": 1.382431,
+                "longitude": 103.892747,
+                "addressname": "Buangkok MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Sengkang",
+                "imageurl": "",
+                "contact": "Marco/Alf",
+                "time": "9:30 pm",
+                "day": "Saturday",
+                "latitude": 1.391254,
+                "longitude": 103.89537,
+                "addressname": "Sengkang MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Sembawang",
+                "imageurl": "",
+                "contact": "Oliver/Bambi",
+                "time": "8:30 pm",
+                "day": "Monday",
+                "latitude": 1.449025,
+                "longitude": 103.820152,
+                "addressname": "Sembawang MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Clementi",
+                "imageurl": "",
+                "contact": "Angelo/Pam",
+                "time": "7:30 pm",
+                "day": "Friday",
+                "latitude": 1.315302,
+                "longitude": 103.765244,
+                "addressname": "Clementi MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Woodlands",
+                "imageurl": "",
+                "contact": "John/Cecile",
+                "time": "8:00 pm",
+                "day": "Friday",
+                "latitude": 1.437094,
+                "longitude": 103.786484,
+                "addressname": "Woodlands MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Sembawang",
+                "imageurl": "",
+                "contact": "Popit/Joy",
+                "time": "8:00 pm",
+                "day": "Tuesday",
+                "latitude": 1.449025,
+                "longitude": 103.820152,
+                "addressname": "Sembawang MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            }
+        ]
+    },
+    {
+        "group": "Mixed Men",
+        "gender": "Mixed",
+        "locations": [
+            {
+                "location": "Dhoby Ghaut",
+                "imageurl": "",
+                "contact": "Daniel/Darnel/Wesley",
+                "time": "2:00 pm",
+                "day": "Sunday",
+                "latitude": 1.298593,
+                "longitude": 103.845909,
+                "addressname": "Dhoby Ghaut MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Pioneer Men",
+                "imageurl": "",
+                "contact": "Rolly/Manny",
+                "time": "7:00 pm",
+                "day": "Saturday",
+                "latitude": 1.33737,
+                "longitude": 103.69709,
+                "addressname": "Pioneer MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            }
+        ]
+    },
+    {
+        "group": "Mixed Ladies",
+        "gender": "Ladies",
+        "locations": [
+            {
+                "location": "JEM Ladies",
+                "imageurl": "",
+                "contact": "Bea/Cecil",
+                "time": "7:30 pm",
+                "day": "Friday",
+                "latitude": 1.33342,
+                "longitude": 103.743394,
+                "addressname": "JEM",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Dhoby Ghaut",
+                "imageurl": "",
+                "contact": "Leree/Mariza//Leila",
+                "time": "2:00 pm",
+                "day": "Sunday",
+                "latitude": 1.298593,
+                "longitude": 103.845909,
+                "addressname": "Dhoby Ghaut MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            }
+        ]
+    },
+    {
+        "group": "Young Couples",
+        "gender": "Mixed",
+        "locations": [
+            {
+                "location": "Lakeside",
+                "imageurl": "",
+                "contact": "Jong/Grace",
+                "time": "8:00 pm",
+                "day": "Friday",
+                "latitude": 1.344237,
+                "longitude": 103.720725,
+                "addressname": "Lakeside MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            }
+        ]
+    },
+    {
+        "group": "Family",
+        "gender": "Mixed",
+        "locations": [
+            {
+                "location": "Yishun",
+                "imageurl": "http://www.ccfsingapore.org/images/smallgroups/dgroup_family.jpg",
+                "contact": "JR/Malen",
+                "time": "2:00 pm",
+                "day": "Saturday",
+                "latitude": 1.429463,
+                "longitude": 103.835182,
+                "addressname": "Yishun MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            }
+        ]
+    },
+    {
+        "group": "Single Men",
+        "gender": "Men",
+        "locations": [
+            {
+                "location": "Tampines",
+                "imageurl": "",
+                "contact": "Milo",
+                "time": "8:00 pm",
+                "day": "Thursday",
+                "latitude": 1.353092,
+                "longitude": 103.945229,
+                "addressname": "Tampines MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Strand Hotel",
+                "imageurl": "",
+                "contact": "Patric",
+                "time": "7:30 pm",
+                "day": "Thursday",
+                "latitude": 1.29865,
+                "longitude": 103.849797,
+                "addressname": "Strand Hotel",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Funan 1",
+                "imageurl": "",
+                "contact": "Julius/Allan",
+                "time": "8:00 pm",
+                "day": "Friday",
+                "latitude": 1.291583,
+                "longitude": 103.849885,
+                "addressname": "Funan Mall",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Funan 2",
+                "imageurl": "",
+                "contact": "Carlo/Kris",
+                "time": "8:00 pm",
+                "day": "Friday",
+                "latitude": 1.291583,
+                "longitude": 103.849885,
+                "addressname": "Funan Mall",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Dhoby Ghaut",
+                "imageurl": "",
+                "contact": "Daniel/Wesley",
+                "time": "2:00 pm",
+                "day": "Sunday",
+                "latitude": 1.298593,
+                "longitude": 103.845909,
+                "addressname": "Dhoby Ghaut MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            }
+        ]
+    },
+    {
+        "group": "Single Women",
+        "gender": "Women",
+        "locations": [
+            {
+                "location": "Sengkang",
+                "imageurl": "",
+                "contact": "Angie/Jacque",
+                "time": "8:00 pm",
+                "day": "Tuesday",
+                "latitude": 1.391254,
+                "longitude": 103.89537,
+                "addressname": "Sengkang MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "SMU",
+                "imageurl": "",
+                "contact": "Irene",
+                "time": "8:00 pm",
+                "day": "Thursday",
+                "latitude": 1.296568,
+                "longitude": 103.852118,
+                "addressname": "SMU",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Tampines",
+                "imageurl": "",
+                "contact": "Jade/Anna",
+                "time": "8:00 pm",
+                "day": "Friday",
+                "latitude": 1.353092,
+                "longitude": 103.945229,
+                "addressname": "Tampines MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Dhoby Ghaut/Somerset",
+                "imageurl": "",
+                "contact": "Jaja",
+                "time": "8:00 pm",
+                "day": "Tuesday",
+                "latitude": 1.30015,
+                "longitude": 103.838501,
+                "addressname": "Somerset MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Strand Hotel",
+                "imageurl": "",
+                "contact": "Juna",
+                "time": "8:00 pm",
+                "day": "Friday",
+                "latitude": 1.291583,
+                "longitude": 103.849797,
+                "addressname": "Strand Hotel",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Hotel Rendezvous",
+                "imageurl": "",
+                "contact": "Mia",
+                "time": "8:00 pm",
+                "day": "Friday",
+                "latitude": 1.29819,
+                "longitude": 103.849374,
+                "addressname": "Hotel Rendezvous",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "CBD",
+                "imageurl": "",
+                "contact": "Angela",
+                "time": "1:00 pm",
+                "day": "Sunday",
+                "latitude": 1.29819,
+                "longitude": 103.849374,
+                "addressname": "CBD",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Strand Hotel",
+                "imageurl": "",
+                "contact": "Sidney",
+                "time": "12:00 nn",
+                "day": "Saturday",
+                "latitude": 1.291583,
+                "longitude": 103.849797,
+                "addressname": "Strand Hotel",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Dhoby Ghaut",
+                "imageurl": "",
+                "contact": "Leree",
+                "time": "2:00 pm",
+                "day": "Saturday",
+                "latitude": 1.298593,
+                "longitude": 103.845909,
+                "addressname": "Dhoby Ghaut MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "SMU",
+                "imageurl": "",
+                "contact": "Bheng/Issa",
+                "time": "2:00 pm",
+                "day": "Sunday",
+                "latitude": 1.296568,
+                "longitude": 103.852118,
+                "addressname": "SMU",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            },
+            {
+                "location": "Clementi",
+                "imageurl": "",
+                "contact": "Jansen/MJ",
+                "time": "7:30 pm",
+                "day": "Friday",
+                "latitude": 1.315302,
+                "longitude": 103.765244,
+                "addressname": "Clementi MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            }
+        ]
+    },
+    {
+        "group": "Mixed Young Adults",
+        "gender": "Mixed",
+        "locations": [
+            {
+                "location": "Toa Payoh",
+                "imageurl": "",
+                "contact": "Kidit/Yvette",
+                "time": "8:00 pm",
+                "day": "Friday",
+                "latitude": 1.332702,
+                "longitude": 103.847809,
+                "addressname": "Toa Payoh MRT",
+                "email": "info.ccfsingapore@gmail.com",
+                "verse": "",
+                "agerangemin": 18,
+                "agerangemax": 30
+            }
+        ]
+    }
+]
+}

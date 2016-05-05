@@ -1,0 +1,51 @@
+{
+    "banner": "http://www.ccfsingapore.org/wp-content/uploads/banner_resources.png",
+    "text": "'All this took place to fulfill what the Lord had said through the prophet: The virgin will conceive and give birth to a son, and they will call him Immanuel? (which means ?God with us?).'\n2 Matthew 1:22-23 (NASB)",
+    "data": [
+        {
+            "name": "Filled to Overflow - Prayer and Fasting 2015",
+            "publisher": "CCF Singapore",
+            "date": "",
+            "verse": "...And they were all filled with the Holy Spirit and spoke the word of God boldly.\nActs 4:31",
+            "details": "Dearest brothers and sisters in Christ, What a joy it is to welcome another beautiful and exciting year with all of you! Every single one of you has been a blessing to the CCF family and that is something that I, together with the CCF elders and staff, have been truly grateful for.\n\nPhilippians 1:9-11 says, “And this I pray, that your love may abound still more and more in real knowledge and all discernment, so that you may approve the things that are excellent, in order to be sincere and blameless until the day of Christ; having been filled with the fruit of righteousness which comes through Jesus Christ, to the glory and praise of God.”\n\nAs we look forward to the new opportunities and challenges that 2015 will bring, I invite you to join me in examining what fills our daily lives. Do our lives exude God’s righteousness? Or do people give us a questioning look when we tell them we are Christians?\n\nIt is my prayer that CCF will adopt the lifestyle of examining what fills us on a day-to-day basis. I believe that what we fill our lives with can be a barometer of our intimacy with the Lord. That is why I want to personally invite you to join us for this year’s CCF Prayer and Fasting Week.\n\nWe will be diving into the Book of Acts to see how the lives of six exceptional people helped the early Church prosper by proclaiming the message of Jesus’ love to everyone. May their lives be an inspiration for you to a deeper and more intimate relationship with our Lord and Savior, Jesus Christ.\n\nMay their examples also serve as an inspiration in doing the ministry that God has entrusted to us. I am excited to see how God will fill us with His grace and mercy so that these will overflow to all the people that we meet. I am looking forward to how our intimacy with God will manifest itself in the lives our families, friends, loved ones and everyone around us. Let us all gear up for what God is going to do in and through CCF this year!\n\nYour fellow servant of the Almighty King,\nPastor Peter Tanchi",
+            "image": "http://www.ccfsingapore.org/wp-content/uploads/prayer_and_fasting.png",
+            "file": "http://www.ccfsingapore.org/wp-content/uploads/2015_p_and_f.pdf"
+        },
+        {
+            "name": "Prayer Calendar 2014",
+            "publisher": "CCF Singapore",
+            "date": "",
+            "verse": "I pray that the eyes of your heart may be enlightened...\nEphesians 1:18 (NASB)",
+            "details": "Dear All, \nHere is the prayer calendar for December 2014. \nGod bless. \nRegards, \nCCF Singapore",
+            "image": "http://www.ccfsingapore.org/wp-content/uploads/serve_pray.png",
+            "file": "http://www.ccfsingapore.org/wp-content/uploads/CCFSG_Prayer_Calendar_Dec2014.pdf"
+        },
+        {
+            "name": "Won By One Book 1",
+            "publisher": "CCF Singapore",
+            "date": "",
+            "verse": "",
+            "details": "Contains topics on the foundation of the Christian faith.",
+            "image": "http://www.ccfsingapore.org/wp-content/uploads/WonByOne1.png",
+            "file": "http://www.ccfsingapore.org/wp-content/uploads/WonByOne-Book1.pdf"
+        },
+        {
+            "name": "Won By One Book 2",
+            "publisher": "CCF Singapore",
+            "date": "",
+            "verse": "",
+            "details": "Explains the next steps of our journey after coming to faith in Jesus.",
+            "image": "http://www.ccfsingapore.org/wp-content/uploads/WonByOne2.png",
+            "file": "http://www.ccfsingapore.org/wp-content/uploads/WonByOne-Book2.pdf"
+        },
+        {
+            "name": "Project Canaan - Pledge Form",
+            "publisher": "CCF Singapore",
+            "date": "",
+            "verse": "",
+            "details": "Be part of God's work here in Singapore and beyond.",
+            "image": "http://www.ccfsingapore.org/wp-content/uploads/PledgeForm.png",
+            "file": "http://www.ccfsingapore.org/wp-content/uploads/ProjectCanaanPledgeForm.pdf"
+        }
+    ]
+}

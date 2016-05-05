@@ -1,0 +1,20 @@
+{
+    "banner": "http://www.ccfsingapore.org/wp-content/uploads/banner_events.png",
+    "text": "... and let us consider how to stimulate one another to love and good deeds, not forsaking our own assembling together, as is the habit of some, but encouraging one another; and all the more as you see the day drawing near.\nHebrews 10:24-25(NASB)",
+    "data": [
+        {
+            "name": "CCF Singapore Prayer and Fasting Week",
+            "subname": "Prayer and Fasting Week 2015",
+            "venue": "Singapore, Singapore",
+            "memberprice": "FREE",
+            "guestprice": "FREE",
+            "date": "January 5 to 10, 2015",
+            "starttime": "00:00",
+            "endtime": "00:00",
+            "verse": "",
+            "details": "Join us as we welcome the new year with a week of prayer and fasting focusing on Gods Lordship and our stewardship.\n",
+            "image": "http://www.ccfsingapore.org/wp-content/uploads/serve_pray.png",
+            "form": ""
+        }
+    ]
+}
