@@ -10,7 +10,7 @@
 import UIKit
 
 class MessageCollectionViewCell: UICollectionViewCell {
-    @IBOutlet weak var videoThumbnailView: FPURLImageView!
+    @IBOutlet weak var videoThumbnailView: UIImageView!
     @IBOutlet weak var titleLabel: UILabel!
     @IBOutlet weak var titleLabelHeightConstraint: NSLayoutConstraint!
     @IBOutlet weak var descriptionLabel: UILabel!

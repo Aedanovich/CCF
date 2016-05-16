@@ -8,3 +8,4 @@
 
 #import "AFNetworking.h"
 #import "SVProgressHUD.h"
+#import <SDWebImage/UIImageView+WebCache.h>

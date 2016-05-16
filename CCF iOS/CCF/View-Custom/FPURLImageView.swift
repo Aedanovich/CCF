@@ -99,7 +99,9 @@ class ImageManager : NSObject {
                         isBarcode = path.localizedStandardContainsString("_BARCODE")
                         isQRcode = path.localizedStandardContainsString("_QRCODE")
                     } else {
-                        // Fallback on earlier versions
+                        isJpeg = path.rangeOfString(".jpg") != nil
+                        isBarcode = path.rangeOfString("_BARCODE") != nil
+                        isQRcode = path.rangeOfString("_QRCODE") != nil
                     }
                     
                     if (isJpeg || isBarcode || isQRcode) {

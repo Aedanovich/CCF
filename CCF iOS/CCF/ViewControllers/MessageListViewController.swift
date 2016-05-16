@@ -136,9 +136,11 @@ class MessageListViewController: FPSlidingViewPanelViewController, UICollectionV
         cell.titleLabel.text = video.title
         cell.descriptionLabel.text = video.video_description
         let imageURL = (indexPath.row == 0 && filterMode == FilterMode.Recent) ? video.thumbnail_large : video.thumbnail_small
-        cell.videoThumbnailView.setImageWithURL(imageURL!,
-            thumbnail: true,
-            completion: nil)
+//        cell.videoThumbnailView.setImageWithURL(imageURL!,
+//            thumbnail: true,
+//            completion: nil)
+        let url = NSURL(string: imageURL!)
+        cell.videoThumbnailView.sd_setImageWithURL(url)
         
         if cell.titleLabelHeightConstraint != nil {
             cell.titleLabelHeightConstraint.constant = cell.titleLabel.intrinsicContentSize().height + 2

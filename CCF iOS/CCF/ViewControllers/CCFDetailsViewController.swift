@@ -129,8 +129,6 @@ class CCFDetailsViewController: FPSlidingViewPanelViewController, MFMailComposeV
                 case .Map:
                     rows = detailSection.contents.count
                     break;
-                default:
-                    break;
                 }
             }
         }
@@ -163,8 +161,6 @@ class CCFDetailsViewController: FPSlidingViewPanelViewController, MFMailComposeV
                     break;
                 case .Map:
                     identifier = "MapCell"
-                    break;
-                default:
                     break;
                 }
             }
@@ -202,8 +198,6 @@ class CCFDetailsViewController: FPSlidingViewPanelViewController, MFMailComposeV
                         }
                     }
                     break;
-                default:
-                    break;
                 }
             }
             
@@ -233,8 +227,6 @@ class CCFDetailsViewController: FPSlidingViewPanelViewController, MFMailComposeV
                     break;
                 case .Map:
 
-                    break;
-                default:
                     break;
                 }
             }

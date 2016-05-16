@@ -140,15 +140,6 @@ class ViewController: FPSlidingViewController, MFMailComposeViewControllerDelega
         }
     }
     
-    override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
-        let identifier: String = segue.identifier!
-        if segue.destinationViewController.isKindOfClass(UINavigationController) {
-            let nc = segue.destinationViewController as! UINavigationController
-            let root = nc.viewControllers[0] as UIViewController
-            
-        }
-    }
-
     // Current Playing
     func playVimeoVideo (video: VimeoVideo) {
         showCurrentPlayingView(true)
