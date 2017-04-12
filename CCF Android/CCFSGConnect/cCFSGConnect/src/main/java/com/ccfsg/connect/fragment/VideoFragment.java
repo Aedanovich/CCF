@@ -5,11 +5,13 @@ import java.util.ArrayList;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import android.content.ActivityNotFoundException;
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.drawable.ColorDrawable;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v7.app.ActionBar;
@@ -23,7 +25,8 @@ import android.widget.ProgressBar;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.ccfsg.connect.R;
-import com.ccfsg.connect.VideoPlayerActivity;
+//import com.ccfsg.connect.VideoPlayerActivity;
+import com.ccfsg.connect.WebViewActivity;
 import com.ccfsg.connect.adapter.VideoAdapter;
 import com.ccfsg.connect.api.VimeoApi;
 import com.ccfsg.connect.api.VolleyManager;
@@ -132,9 +135,25 @@ public class VideoFragment extends Fragment {
                         {
                         	JSONObject json = new JSONObject( response );
                             VimeoVideo video = new VimeoVideo( json );
-                            Intent myIntent = new Intent(getActivity(), VideoPlayerActivity.class);
-                            myIntent.putExtra( VideoPlayerActivity.URL, isConnected( getActivity() ) ? video.getUrl() : video.getMobileUrl() );
+                            //Intent myIntent = new Intent(getActivity(), VideoPlayerActivity.class);
+                            //myIntent.putExtra( VideoPlayerActivity.URL, isConnected( getActivity() ) ? video.getUrl() : video.getMobileUrl() );
+                            //startActivity(myIntent);
+
+                            Intent myIntent = new Intent(getActivity(), WebViewActivity.class);
+                            myIntent.putExtra( WebViewActivity.URL, video.getUrl() );
+                            myIntent.putExtra( WebViewActivity.TITLE, video.getTitle() );
+                            myIntent.putExtra( WebViewActivity.EMBEDCODE, video.getEmbedCode() );
                             startActivity(myIntent);
+
+                            //Intent intent=new Intent(Intent.ACTION_VIEW, Uri.parse(video.getUrl()));
+                            //intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                            //intent.setPackage("com.android.chrome");
+                            //try {
+                            //    startActivity(intent);
+                            //} catch (ActivityNotFoundException ex) {
+                            //    intent.setPackage(null);
+                            //    startActivity(intent);
+                            //}
                         } 
                         catch (Exception e) 
                         {

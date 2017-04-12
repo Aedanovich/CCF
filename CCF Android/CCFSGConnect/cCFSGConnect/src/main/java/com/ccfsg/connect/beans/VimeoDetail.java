@@ -28,7 +28,7 @@ public class VimeoDetail implements Parcelable {
 			title = json.has( "title" ) ? json.getString( "title" ) : "";
 			description = json.has( "description" ) ? json.getString( "description" ) : "";
 			uploadDate = json.has( "upload_date" ) ? json.getString( "upload_date" ) : "";
-			mobileUrl = json.has( "mobile_url" ) ? json.getString( "mobile_url" ) : "";
+			mobileUrl = json.has( "mobile_url" ) ? json.getString( "mobile_url" ) : (json.has( "url" ) ? json.getString( "url" ) : "");
 			thumbnailSmall = json.has( "thumbnail_small" ) ? json.getString( "thumbnail_small" ) : "";
 			thumbnailMedium = json.has( "thumbnail_medium" ) ? json.getString( "thumbnail_medium" ) : "";
 			thumbnailLarge = json.has( "thumbnail_large" ) ? json.getString( "thumbnail_large" ) : "";

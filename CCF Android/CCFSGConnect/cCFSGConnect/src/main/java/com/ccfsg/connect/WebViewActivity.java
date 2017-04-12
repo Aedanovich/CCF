@@ -1,6 +1,7 @@
 package com.ccfsg.connect;
 
 import android.annotation.SuppressLint;
+import android.content.pm.ActivityInfo;
 import android.graphics.Bitmap;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
@@ -21,11 +22,13 @@ public class WebViewActivity  extends ActionBarActivity {
 
 	public static final String URL = "url";
 	public static final String TITLE = "title";
+	public static final String EMBEDCODE = "";
     public static String TAG = "WebViewActivity";
 	private WebView webView;
 	private String url;
 	private String title;
-    
+	private String embedCode;
+
     private void initActionBar()
     {
     	ActionBar actionBar = getSupportActionBar();
@@ -45,6 +48,7 @@ public class WebViewActivity  extends ActionBarActivity {
 		setContentView(R.layout.activity_webview);
         url = getIntent().getStringExtra( URL );
         title = getIntent().getStringExtra( TITLE );
+		embedCode = getIntent().getStringExtra ( EMBEDCODE );
         setView();
         initActionBar();
     }
@@ -53,16 +57,12 @@ public class WebViewActivity  extends ActionBarActivity {
 	private void setView()
 	{
     	webView = (WebView) findViewById(R.id.web);
-		
-		webView.getSettings().setJavaScriptEnabled(true);
-
 		webView.setWebViewClient(new WebViewClient()
 		{
 			@Override
 			public boolean shouldOverrideUrlLoading(WebView view, String urlNewString)
 			{
-				webView.loadUrl(urlNewString);
-				return true;
+				return false;
 			}
 
 			@Override
@@ -88,19 +88,23 @@ public class WebViewActivity  extends ActionBarActivity {
 	            }
 	         }
 		});
-		int currentapiVersion = android.os.Build.VERSION.SDK_INT;
-		if (currentapiVersion >= android.os.Build.VERSION_CODES.ECLAIR_MR1)
-		{
-			webView.getSettings().setLoadWithOverviewMode(true);
-		}
-		webView.getSettings().setBuiltInZoomControls(false);
+		webView.getSettings().setAllowFileAccess(true);
+		webView.getSettings().setBuiltInZoomControls(true);
+		webView.getSettings().setSupportZoom(true);
 		webView.getSettings().setUseWideViewPort(true);
-		webView.getSettings().setAppCacheMaxSize(1024*1024*8); 
-		//webView.getSettings().setAppCachePath("/data/data/com.your.package.appname/cache"‌​); 
-		webView.getSettings().setAppCacheEnabled(true); 
+		webView.getSettings().setLoadWithOverviewMode(true);
+		webView.getSettings().setAppCacheEnabled(true);
 		webView.getSettings().setCacheMode(WebSettings.LOAD_CACHE_ELSE_NETWORK);
-		
-		webView.loadUrl(url);
+		webView.getSettings().setJavaScriptEnabled(true);
+
+
+		if (embedCode.trim().isEmpty())
+			webView.loadUrl(url);
+		else {
+			webView.loadData(embedCode, "text/html", "utf-8");
+			this.setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
+		}
+//			webView.loadDataWithBaseURL("file:///android_asset/." , embedCode, "text/html", "UTF-8", null);
 		webView.setVisibility( View.VISIBLE );
 	}
 
