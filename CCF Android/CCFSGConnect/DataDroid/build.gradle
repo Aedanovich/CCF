@@ -1,12 +1,10 @@
 apply plugin: 'android-library'
-
 repositories {
     mavenCentral()
 }
-
 android {
     compileSdkVersion 19
-    buildToolsVersion "19.1.0"
+    buildToolsVersion "25.0.2"
 
     defaultConfig {
         minSdkVersion 8
@@ -29,4 +27,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_7
         targetCompatibility JavaVersion.VERSION_1_7
     }
+}
+
+dependencies {
 }

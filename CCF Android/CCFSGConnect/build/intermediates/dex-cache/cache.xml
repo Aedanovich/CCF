@@ -2,46 +2,22 @@
 <items version="2" >
 
     <item
-        jar="/Users/Yang/AndroidStudioProjects/CCFSGConnect/cCFSGConnect/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        is-multidex="false"
+        jar="/Users/adrianyang/StudioProjects/CCF/CCF Android/CCFSGConnect/DataDroid/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
-        revision="23.0.3"
-        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
-        <dex dex="/Users/Yang/AndroidStudioProjects/CCFSGConnect/cCFSGConnect/build/intermediates/pre-dexed/release/internal_impl-20.0.0_cc909b36bff956264ccc2dfc36d7cb399875b7fc.jar" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccb4fa867aeb029da4881bfc51204d54e355f6bb">
+        <dex dex="/Users/adrianyang/StudioProjects/CCF/CCF Android/CCFSGConnect/cCFSGConnect/build/intermediates/pre-dexed/debug/classes_ec526fe5d24fb953cdf20e3e7aef14cdc790b732.jar" />
     </item>
     <item
-        jar="/Users/Yang/AndroidStudioProjects/CCFSGConnect/cCFSGConnect/build/intermediates/exploded-aar/com.android.volley/volley/unspecified/jars/classes.jar"
+        is-multidex="false"
+        jar="/Users/adrianyang/.android/build-cache/abae5d99c7f06f3b704b34599349f5f4306e1ba2/output/jars/classes.jar"
         jumboMode="false"
-        revision="23.0.3"
-        sha1="bb922ef895b5ff172bd8ba8333561560ce0abe23">
-        <dex dex="/Users/Yang/AndroidStudioProjects/CCFSGConnect/cCFSGConnect/build/intermediates/pre-dexed/release/com.android.volley-volley-unspecified_978cee0e9e3c63fb1ec4861bec9add6ae6bc4985.jar" />
-    </item>
-    <item
-        jar="/Users/Yang/AndroidStudioProjects/CCFSGConnect/cCFSGConnect/build/intermediates/exploded-aar/CCFSGConnect/DataDroid/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="39297ba8025bf4e61e6e7ce882fae517dd76ed66">
-        <dex dex="/Users/Yang/AndroidStudioProjects/CCFSGConnect/cCFSGConnect/build/intermediates/pre-dexed/release/CCFSGConnect-DataDroid-unspecified_9c707cbbcd8f88a9689cd586a9ce4d94aee633f4.jar" />
-    </item>
-    <item
-        jar="/Users/Yang/AndroidStudioProjects/CCFSGConnect/cCFSGConnect/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
-        <dex dex="/Users/Yang/AndroidStudioProjects/CCFSGConnect/cCFSGConnect/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-20.0.0_74e163d451bd0fc7edeac69597424ec1154d2510.jar" />
-    </item>
-    <item
-        jar="/Users/Yang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
-        <dex dex="/Users/Yang/AndroidStudioProjects/CCFSGConnect/cCFSGConnect/build/intermediates/pre-dexed/release/support-annotations-20.0.0_131c46304e947abd1d54ff9a11e04821f562b29b.jar" />
-    </item>
-    <item
-        jar="/Users/Yang/AndroidStudioProjects/CCFSGConnect/cCFSGConnect/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
-        <dex dex="/Users/Yang/AndroidStudioProjects/CCFSGConnect/cCFSGConnect/build/intermediates/pre-dexed/release/com.android.support-support-v4-20.0.0_e0ae417b0bf83ef6dc5c6db8f1f3e1ae2106d908.jar" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/adrianyang/StudioProjects/CCF/CCF Android/CCFSGConnect/cCFSGConnect/build/intermediates/pre-dexed/debug/classes_e9e4eb20ca76eab2c442bb2a6ea222f5f4618c5d.jar" />
     </item>
 
 </items>
